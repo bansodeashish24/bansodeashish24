@@ -6,3 +6,21 @@
 - 💻 I've worked across the web stack on technologies like Angular, HTML, CSS, JavaScript, TypeScript, Node.js, NestJS, Sails.js and MySQL.
 
 Thanks for dropping by! 😃
+
+<hr/>
+
+### Some of my projects you might find interesting:
+
+_**Basic Angular**_ 
+
+- [Angular Notes WebApp](https://github.com/bansodeashish24/angular-notes-app) - Simple web app covering most of the Angular concepts and use cases. Helpful as a reference and guideline if you are learning Angular.
+
+_**Micro Frontends using Angular and Webpack Module Federation**_
+
+- [Angular Container Micro frontend](https://github.com/bansodeashish24/angular-container-mf) - Reusable boilerplate containing frequently used Angular functionality. Use as a micro frontend container / shell.
+- [Angular Child Micro frontend](https://github.com/bansodeashish24/angular-child-mf-1) - Reusable boilerplate containing Angular functionality for child micro frontends.
+
+
+_**Backend Development**_ 
+
+- [API Development using Sails.js](https://github.com/bansodeashish24/sails-api) - Project containing basic APIs and guidelines on using [Sails.js](https://sailsjs.com/) for backend development.
