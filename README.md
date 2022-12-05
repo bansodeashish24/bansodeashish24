@@ -5,8 +5,6 @@
 - 💬 I enjoy talking and teaching about Angular, best practices, clean code and sound architectural design for creating scalable web applications.
 - 💻 I've worked across the web stack on technologies like Angular, HTML, CSS, JavaScript, TypeScript, Node.js, NestJS, Sails.js and MySQL.
 
-Thanks for dropping by! 😃
-
 <hr/>
 
 ### Some of my projects you might find interesting:
@@ -26,3 +24,6 @@ _**Micro Frontends using Angular and Webpack Module Federation**_
 _**Backend Development**_ 
 
 - [API Development using Sails.js](https://github.com/bansodeashish24/sails-api) - Project containing basic APIs and guidelines on using [Sails.js](https://sailsjs.com/) for backend development.
+
+
+Thanks for dropping by! 😃
