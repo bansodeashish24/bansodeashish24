@@ -15,6 +15,8 @@ _**Basic Angular**_
 
 - [Angular Notes WebApp](https://github.com/bansodeashish24/angular-notes-app) - Simple web app covering most of the Angular concepts and use cases. Helpful as a reference and guideline if you are learning Angular.
 
+- [Angular Bookstore using New York Times Book API](https://github.com/bansodeashish24/angular-bookstore-project) - This is the project I guide my students to implement in my training sessions. It's a web application demonstrating prominent Angular concepts by appling it to the bookstore use case. 
+
 _**Micro Frontends using Angular and Webpack Module Federation**_
 
 - [Angular Container Micro frontend](https://github.com/bansodeashish24/angular-container-mf) - Reusable boilerplate containing frequently used Angular functionality. Use as a micro frontend container / shell.
